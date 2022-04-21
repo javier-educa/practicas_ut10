@@ -1,4 +1,2 @@
-# Ignora archivos del sistema Mac 
-.DS_store
 *.pdf
 *.html

@@ -35,3 +35,10 @@
 
 ## Practica 1
 - [**PR1101. Configuración de la red**](PR1101/pr1101.md)
+
+---
+
+## Practica 2
+- [**PR1101. Permisos de Linux**](PR1102/pr1102.md)
+
+---

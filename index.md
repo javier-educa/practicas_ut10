@@ -2,7 +2,6 @@
 
 
 # Tema 10 
----
 
 ## Practica 1 
 - [**PR1001. Introducción a la línea de comandos**](PR1001/pr1001.md)
@@ -30,8 +29,6 @@
 ---
 
 # Tema 11
-
----
 
 ## Practica 1
 - [**PR1101. Configuración de la red**](PR1101/pr1101.md)
